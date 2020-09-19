@@ -1,3 +1,3 @@
 # gitclone
 create a new dev
-create a new "master-featrue2"
+create a new "master-master"
